@@ -64,8 +64,8 @@ A comprehensive web application for managing animal rescue operations. This plat
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/vhicktour/SNHU-CS499.git
-cd SNHU-CS499
+git clone https://github.com/vhicktour/Animal-Rescue-Management-System-ARMS.git
+cd Animal-Rescue-Management-System-ARMS
 ```
 
 2. Install dependencies:
